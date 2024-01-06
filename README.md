@@ -107,5 +107,5 @@ __Redux__
 # $ Live link $
 https://resume-builder-reactapp.netlify.app/
 
-# $ video link $
+
 
